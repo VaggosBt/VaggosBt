@@ -1,5 +1,5 @@
 - 👋 Hello there! 
-
+- 🔶 I'm currently working at Gnomon Informatics SA in Thessaloniki as a Software Developer!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vaggelisbitloglou/) or Personal Mail: vaggelisbit@hotmail.com
 
 <!---
